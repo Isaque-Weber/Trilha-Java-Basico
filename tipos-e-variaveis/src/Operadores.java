@@ -42,9 +42,9 @@ public class Operadores {
                 a = 5;
                 b = 6;
 
-                final String resultado = a==b ? "verdadeiro" : "falso";
+                String result = a==b ? "verdadeiro" : "falso";
 
-                System.out.println(resultado);
+                System.out.println(result);
 
             // Relacionais
                 // == verifica se uma variável é igual À OUTRA
