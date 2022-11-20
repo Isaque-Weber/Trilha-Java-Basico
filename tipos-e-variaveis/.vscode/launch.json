@@ -1,0 +1,61 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Scanner",
+            "request": "launch",
+            "mainClass": "Scanner",
+            "projectName": "tipos-e-variaveis_4ef16e3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Argumentos",
+            "request": "launch",
+            "mainClass": "Argumentos",
+            "args": [
+                "ISAQUE",
+                "WEBER",
+                "25",
+                "1.81"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "tipos-e-variaveis_4ef16e3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "tipos-e-variaveis_4ef16e3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "tipos-e-variaveis_4ef16e3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Usuario",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "tipos-e-variaveis_4ef16e3e"
+        }
+    ]
+}
