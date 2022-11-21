@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Loops e arrays/exercicios" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Loops e arrays/exercicios/loops-e-arrays" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tipos-e-variaveis" vcs="Git" />
   </component>
 </project>
